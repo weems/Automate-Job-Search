@@ -15,7 +15,7 @@ Automate your job search for QA and Cybersecurity roles using Python.
 2. Navigate to the Project Directory
    ``` cd Automate-Job-Search```
 3. Install the required Python Dependencies:
-   ```pip install -r requorements.txt```
+   ```pip install -r requirements.txt```
 
 ## Usage
    1. Customize the configuration file to set your preferences for job roles, locations, and other criteria.
