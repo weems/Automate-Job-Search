@@ -1,0 +1,1 @@
+# Scraper for Indeed job postings

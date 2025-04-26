@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+pandas
+streamlit
+docx2txt
+PyPDF2
+openai
+python-dotenv
+fuzzywuzzy
+python-Levenshtein
+spacy

@@ -1,0 +1,1 @@
+# Email notification script using smtplib
